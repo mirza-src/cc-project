@@ -1,4 +1,4 @@
-# Cloud Computing Semester Project
+# Cloud Computing Semester Project [(you are here)](https://github.com/mirza-src/cc-project)
 
 This repository contains a cloud-native implementation for a Cloud Computing semester project, demonstrating scalable infrastructure deployment and application management using modern DevOps practices and tools.
 
