@@ -1,0 +1,9 @@
+[submodule "infrastructure-live"]
+	path = infrastructure-live
+	url = https://github.com/mirza-src/cc-infrastructure-live.git
+[submodule "argocd-gitops"]
+	path = argocd-gitops
+	url = https://github.com/mirza-src/cc-argocd-gitops.git
+[submodule "cc-app"]
+	path = cc-app
+	url = https://github.com/MairaTariq16/cc-app.git
